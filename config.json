@@ -1,0 +1,15 @@
+{
+    "title": "New Site 56",
+    "baseURL": "https:\/\/test.custom.wd.site",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "wd.site"
+    }
+}
